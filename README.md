@@ -3,7 +3,7 @@
 A Progressive Web App that can display the weather information of the given city
 
 ## Usage
-- Go to the [Live Demo](https://weather-app.wajid.me/)
+- Go to the [Live Demo](https://weather-pwa.live.binzek.com/)
 - Type the city and press _Enter_
 
 ## Install Locally
